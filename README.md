@@ -13,3 +13,5 @@ The aim of the game is to get the highest score possible. Score is time based an
 Main features include file reading and writing, collision detection and general game design with a polling like architecture.
 
 To run this game, download processing from https://processing.org/ and open ColourChange.pde. Then press the play button in the left corner of the ide.
+
+This game can also be compiled and run on android devices with some small alterations to screen scaling and also screen touch(mouse pressed) rather than keypressed
